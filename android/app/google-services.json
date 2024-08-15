@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938036728260",
+    "project_id": "point-of-sell---pos",
+    "storage_bucket": "point-of-sell---pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938036728260:android:831a808160c6f78e819491",
+        "android_client_info": {
+          "package_name": "com.example.point_of_sell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0rFAgFMpit49dRs0dwL7EUXjWlYInI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
