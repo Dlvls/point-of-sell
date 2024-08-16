@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:point_of_sell/resources/colors.dart';
 import 'package:point_of_sell/resources/styles.dart';
 
@@ -47,7 +48,7 @@ class WelcomePage extends StatelessWidget {
                     width: double.infinity,
                     child: ElevatedButton(
                       onPressed: () {
-                        // Your onPressed logic here
+                        context.go('/login');
                       },
                       style: ElevatedButton.styleFrom(
                         foregroundColor: Colors.white,

@@ -16,6 +16,11 @@ class Styles {
     color: lightGray,
   );
 
+  static final TextStyle title = GoogleFonts.poppins(
+    fontSize: 14,
+    color: softBlack,
+  );
+
 // static final TextStyle subtitle =
 //     GoogleFonts.plusJakartaSans(fontSize: 14, color: primaryText);
 //
